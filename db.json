@@ -1,0 +1,46 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "maisam",
+      "address": "uk",
+      "email": "Maisam@gmail.com",
+      "contact": "982478234"
+    },
+    {
+      "name": "usama molvi",
+      "address": " sohdra sialkot",
+      "email": "usama@gmail.com",
+      "contact": "485499380",
+      "id": 3
+    },
+    {
+      "name": "sami",
+      "address": "model colony",
+      "email": "sami311@gmail.com",
+      "contact": "439859035",
+      "id": 7
+    },
+    {
+      "name": "hamza",
+      "address": "uk",
+      "email": "hamza@gmail.com",
+      "contact": "483423904230",
+      "id": 8
+    },
+    {
+      "name": "shazib",
+      "address": "gujrat",
+      "email": "shazib@gmail.com",
+      "contact": "3498385",
+      "id": 9
+    },
+    {
+      "name": "muzammil",
+      "address": "cheema colony",
+      "email": "muzammil@gmail.com",
+      "contact": "235095255",
+      "id": 10
+    }
+  ]
+}
